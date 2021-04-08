@@ -1,6 +1,6 @@
-drop database if exists springApiDomingo01;
-create database springApiDomingo01;
-use springApiDomingo01;
+drop database if exists projetoSpringApi01;
+create database projetoSpringApi01;
+use projetoSpringApi01;
 create table cliente(
 idcliente integer auto_increment,
  nome varchar(150) not null,

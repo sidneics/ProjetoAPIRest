@@ -1,0 +1,5 @@
+{
+    "nome" : "Sidnei Coimbra",
+    "email" : "sidnei.coimbra@yahoo.com.br",
+    "cpf" :"12345678900"
+}
